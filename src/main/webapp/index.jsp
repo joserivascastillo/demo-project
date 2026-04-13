@@ -12,3 +12,11 @@
     <p>Fecha del despliegue: <%= new java.util.Date() %></p>
 </body>
 </html>
+<html>
+<body>
+<h1>¡Despliegue Automático - Jose Luis!</h1>
+<p>La integración continua con Jenkins funciona perfectamente.</p>
+<p>Última actualización: <%= new java.util.Date() %></p>
+</body>
+</html>
+
